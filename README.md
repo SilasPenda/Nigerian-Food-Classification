@@ -3,7 +3,7 @@ This is an image classification project to classify Nigerian food to be either '
 
 # Guide
 * Import necessary libraries
-* Read image paths for all image folders & store all images path in a list
+* Read image directory and save images path in a list
 * Make a copy of the image paths list, shuffle and split into train, validation and test data 
 * Generate new images using ImageDataGenerator
 * Load pretrained model and freeze the layers
