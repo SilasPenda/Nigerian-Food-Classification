@@ -10,4 +10,4 @@ This is an image classification project to classify Nigerian food to be either '
 * Create layers
 * Train model
 * Test model and save as '.h5' model
-* Create web app using streamlit and deploy
+* Create web app using streamlit
