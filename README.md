@@ -1,4 +1,4 @@
-# Nigerian-Foood-Classification
+# Nigerian-Food-Classification
 This is an image classification project to classify Nigerian food to be either 'Yam', 'Egusi', 'Oha Soup', 'Afang Soup', 'Bread', 'Rice and Stew', 'Moi Moi', or 'Akara'. I created a streamlit web app to test the model. After the prediction, there is a link to a webpage where you can see recipes to make the predicted food.
 
 # Guide
